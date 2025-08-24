@@ -5,6 +5,8 @@ Game modes include Sprints (100m–800m), Hurdles (100m/400m), the 4x100m Relay,
 
 It's a sports game that rewards practice with visible gains. Whether you're chasing PBs solo or racing friends head-to-head, expect dramatic finishes and a tight feedback loop—review replays, fix timing mistakes, and watch your times drop. In short: not about pressing faster, but pressing better.
 
+![Speed Stars Unblocked](https://speedstarsunblocked.net/images/speed-stars-unblocked.webp)
+
 # Key features
 Not an endless runner
 Unlike Temple Run–style endless games, Speed Stars Unblocked is about one perfect sprint. No lane switching or coin farming—just a straight track where rhythm and posture decide the clock.
